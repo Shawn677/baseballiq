@@ -234,7 +234,7 @@ hr { border-color: #cce8d8 !important; }
 st.sidebar.markdown("""
 <div style="padding: 1.1rem 0.5rem 0.6rem; text-align: center;">
     <div style="font-size: 2.4rem; line-height: 1;">⚾</div>
-    <div style="font-size: 1.35rem; font-weight: 800; color: #ffffff;
+    <div style="font-size: 1.35rem; font-weight: 800; color: #ffffff !important;
                 letter-spacing: -0.01em; margin-top: 0.3rem;">
         BaseballIQ
     </div>
