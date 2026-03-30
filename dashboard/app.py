@@ -1172,7 +1172,7 @@ def show_about():
     <div style="background: linear-gradient(135deg, #0d2b1a 0%, #1a5c38 100%);
                 border-radius: 14px; padding: 2rem 2.2rem 1.8rem; margin-bottom: 1.6rem;">
         <div style="font-size: 2.2rem; margin-bottom: 0.4rem;">⚾</div>
-        <h1 style="color: #ffffff !important; margin: 0 0 0.5rem; font-size: 2rem;">BaseballIQ</h1>
+        <div style="color: #ffffff; font-size: 2rem; font-weight: 800; margin: 0 0 0.5rem; line-height: 1.2;">BaseballIQ</div>
         <p style="color: #a8d9bc; font-size: 1.05rem; margin: 0; max-width: 600px;">
             A free baseball analytics platform built for fans who want more than just box scores.
             Real stats, real trends, real context — no subscription required.
