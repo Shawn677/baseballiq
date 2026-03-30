@@ -1,0 +1,20 @@
+# Environment variables — never commit these
+.env
+
+# Claude Code project files
+.claude/
+
+# Cached API responses
+data/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
